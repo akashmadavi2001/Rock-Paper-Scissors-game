@@ -41,12 +41,8 @@ optionImgs.forEach((img, index) => {
                 PS: 'Cpu',
                 SR: 'Cpu'
             };
-
-            let outComesValue = outComes[userValue + cpuValue]
-
+            let outComesValue = outComes[userValue + cpuValue];
             result.innerHTML = outComesValue == "Draw" ? "Match Draw" : outComesValue + " Won!!";
-
         }, 2500);
-
     });
 });
