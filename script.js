@@ -18,7 +18,9 @@ optionImgs.forEach((img, index) => {
         gameContainer.classList.add('start');
 
         let time = setTimeout(() => {
+            
             gameContainer.classList.remove('start');
+            
             let imgSrc = e.target.src;
             userResult.src = imgSrc;
 
@@ -46,3 +48,4 @@ optionImgs.forEach((img, index) => {
         }, 2500);
     });
 });
+
