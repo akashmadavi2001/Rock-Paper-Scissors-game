@@ -23,7 +23,7 @@ body {
     background-color: #fff;
     padding: 2rem 4rem;
     border-radius: 10px;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.201);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.200);
 }
 
 .container.start .user-result {
@@ -106,4 +106,5 @@ body {
 
 .opt-img img {
     width: 50px;
+
 }
