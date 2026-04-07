@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-game
+# Rock Paper Scissors game
 
 Visit :- https://akashmadavi2001.github.io/Rock-Paper-Scissors-game/
 
